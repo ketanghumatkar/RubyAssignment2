@@ -13,7 +13,7 @@ ActiveRecord::Base.establish_connection(
 :host => "localhost",
 :database => "recipedb",
 :username => "root",
-:password => "password"
+:password => "webonise6186"
 )
 #class
 class Categary < ActiveRecord::Base
